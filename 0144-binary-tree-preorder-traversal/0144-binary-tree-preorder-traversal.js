@@ -1,3 +1,4 @@
+
 var preorderTraversal = function(root) {
     const res = [];
 
@@ -12,5 +13,6 @@ var preorderTraversal = function(root) {
     }
 
     preorder(root);
+    
     return res;    
 };
