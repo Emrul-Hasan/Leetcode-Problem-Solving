@@ -30,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Emrul-Hasan/Leetcode-Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Emrul-Hasan/Leetcode-Problem-Solving/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
